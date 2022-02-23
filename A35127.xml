@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to all that's young in the truth and lately convinced who walk with, and assemble amongst the people of God called Quakers, that they may escape the wiles of Satan and continue and walk in the way of righteousness.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35127</idno>
+            <idno type="STC">Wing C7208</idno>
+            <idno type="STC">ESTC R19924</idno>
+            <idno type="EEBO-CITATION">12561606</idno>
+            <idno type="OCLC">ocm 12561606</idno>
+            <idno type="VID">63239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 312:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to all that's young in the truth and lately convinced who walk with, and assemble amongst the people of God called Quakers, that they may escape the wiles of Satan and continue and walk in the way of righteousness.</title>
+                  <author>Crook, John, 1617-1699.</author>
+                  <author>Greene, Thomas, 1634?-1699.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated: John Crooke and Thomas Green, London, 1672.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:63239:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:63239:1"/>
+            <head>AN EPISTLE To all that's Young in the Truth, And LATELY CONVINCED; Who walk with, and aſſemble amongſt the People of God called <hi>Quakers;</hi> that they may eſcape the <hi>Wiles of Satan,</hi> and continue and walk in the <hi>Way of Righteouſneſs.</hi>
+            </head>
+            <p>WE calling to Remembrance the <hi>Labours, Hard<g ref="char:EOLhyphen"/>ſhips,</hi> and <hi>Inward Travelling Pangs</hi> and <hi>Throws</hi> of the true Goſpel-Miniſters in the dayes of old, and we knowing the ſame in our day, in our meaſures, which the Apoſtle compared to a <hi>Travelling Woman, in bring<g ref="char:EOLhyphen"/>ing forth her Child into the World,</hi> ſaying, <hi>Of whom I Travel in Birth again, till Chriſt be formed in you.</hi>
+            </p>
+            <p>And bleſſed be the Lord, there are many Witneſſes in this our day, not only of Inſtructers, but of ſuch as through deep Travel have begotten many to God: and theſe Fa<g ref="char:EOLhyphen"/>thers being once Children themſelves, retain in their Fa<g ref="char:EOLhyphen"/>therly Bowels the ſenſe of the Childiſh Eſtate of thoſe who are come inwardly to feel ſome Renewings in the Spi<g ref="char:EOLhyphen"/>rit of their Minds, by the Goſpel-Power, in order to the
+<pb n="2" facs="tcp:63239:2"/>Overturning of all their old Buildings, that now like to <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> of old, for their Deſpiſing and Rejecting the true Prophets, <hi>there was not to be one Stone left upon another.</hi>
+            </p>
+            <p>The <hi>Old Serpent</hi> perceiving his kingdom to be Shaken by the Operation of that <hi>Divine Light, Grace</hi> and <hi>Power of God</hi> (which will admit of no terms any longer to be made with him, or any Subjection or Compliance in the leaſt to be yielded to him, or to any of his works) Every Plant now being to be pluckt up, that the Heavenly Father hath not planted; yea, the Fig-Tree that bears no Fruit, where<g ref="char:EOLhyphen"/>by the Hungry may be relieved, muſt Wither by the Curſe of his Diſpleaſure.</p>
+            <p>Then this <hi>Crooked Serpent,</hi> that is more Subtil then all the Beaſts of the Field, twiſts &amp; turns himſelf every way, if poſ<g ref="char:EOLhyphen"/>ſible, to entangle again thoſe that are turning from his <hi>thick Darkneſs,</hi> to Chriſt's <hi>Marvellous Light,</hi> that hath ſhewed them where they have been, with whom they have been converſing, and what they have been doing in the Dark, and what Path they muſt walk in, if they will arrive at the Land of Reſt.</p>
+            <p>And thus we found Judgment to begin at the Houſe of God, in order to the overthrowing &amp; purging out of all that had defiled, <hi>that our Bodies might become the Temples of the holy Spirit.</hi>
+            </p>
+            <p>Oh, the many Devices that the Enemy uſeth, <hi>that True Judgment might not take place!</hi> And when it did take place, how did he transform himſelf, to make us believe his Sug<g ref="char:EOLhyphen"/>geſtions, viz. <hi>That now we had lain long enough in the Furnace, and the Tin &amp; the Droſs was all gone, and nothing now was left but pure Gold.</hi> But when we at any time lent an Ear to theſe his Deluſions, we found by Experience, that which he ſug<g ref="char:EOLhyphen"/>geſted to be <hi>Gold,</hi> was but <hi>Tin</hi> and <hi>Counterfeit Mettle,</hi> and that he lyed unto us, when he ſaid, <hi>We had been long enough
+<pb n="3" facs="tcp:63239:2"/>in the Refining Fire:</hi> Although the Fleſhly Part was glad of this Tidings, hoping thereby its Life would have been ſpared, and that a Birth of its Womb would ſerve for a Sa<g ref="char:EOLhyphen"/>crifice; for we found it was not the Male of the Flock, but an <hi>Iſhmael</hi> inſtead of <hi>Iſaac,</hi> in which the Lord took <hi>no Delight.</hi>
+            </p>
+            <p>So that we ſaw, we muſt into the Furnance again, and there continue all the appointed time of the Father, <hi>till in<g ref="char:EOLhyphen"/>deed we were changed into the ſtate of the precious Sons of</hi> Sion, <hi>truly comparable to fine Gold.</hi>
+            </p>
+            <p>And this was the Way in which we waited, under the Great Tribulations and Sore Judgments; that we might not only be Convinced, and take up a Reſt there, in that we believed the words of Truth, and could Diſpute for it; but that we might be Converted, and in the Spirit of our Minds throughly Renewed; <hi>that we might be as Saviours upon Mount</hi> Sion, <hi>and as Workers together in the Goſpel of our Lord Je<g ref="char:EOLhyphen"/>ſus, to help and ſtrengthen the Weak Brethren and Siſters, and ſpeak a Word in Due Seaſon to the Weary Soul:</hi> which Work was not at all Weariſom to us, though our Hazards and Hardſhips were great ſometimes to get a Hand to the Helpleſs Ones; yet when once we got but a little hold, and we felt them coming nearer to Truth and us, then our Hearts Rejoyced, and our Souls were right Glad.</p>
+            <p>And they whoſe Beauty was hid as with Bullruſhes, and ſmeered as with Mire, then they appeared to be goodly Children: Theſe were Sweet Encouragements unto us, greatly refreſhing our Bowels, to behold theſe Priſoners thus ſhewing themſelves forth, which made us (with ma<g ref="char:EOLhyphen"/>ny more Faithful Brethren) not to love our lives unto the death; but even for the truly Good Man, dare to dye, when called thereunto.</p>
+            <p>The Spirit of that bleſſed Man began ſo to ſtir in our Boſoms, that we could even (in a Senſe) <hi>a wiſhed our ſelves
+<pb n="4" facs="tcp:63239:3"/>Accurſed for our Kindred, Acquaintance, and Country-men, that they alſo might feel what we felt;</hi> knowing upon what Ground they ſtood, and what Zeal they (as well as we, many of them) had: but the true Knowledge of the Truth, as it is in Jeſus, was wanting; the Vail of <hi>Obſervations</hi> and <hi>Car<g ref="char:EOLhyphen"/>nal Apprehenſions</hi> being yet over the Heart, which nothing can remove but Chriſt; <hi>who is the Life and Light of Men, and Glory of his People Iſrael.</hi>
+            </p>
+            <p>There are many Witneſſes yet alive, who can teſtifie to theſe things, and much more then we intend at this time to mention; only ſome few particulars we may hint at, to the end, <hi>That no Travellers towards</hi> Zion <hi>may turn aſide from the Foot-ſteps of the Flocks of the Companions, nor Err from the Right Way, as it was received and walked in at the Beginning.</hi>
+            </p>
+            <p>O! what Fear and Holy Dread was upon our Spirits, <hi>leſt we ſhould think our own Thoughts,</hi> or <hi>give way in the leaſt to the fleſhly Motions of our own minds,</hi> or <hi>admit any of the Cares for the things of this Life,</hi> or <hi>give way to any inordinate Affection to the neareſt and deareſt Relations, leſt thereby we ſhould be hindred in the day of our Eſpouſals from being Chaſte Virgins unto Chriſt.</hi>
+            </p>
+            <p>Likewiſe, <hi>What Carefulneſs of our Words! What Watchful<g ref="char:EOLhyphen"/>neſs to our Wayes! What Heedfulneſs of our Company! that we might keep our Conſciences clear, that our Lives and Converſa<g ref="char:EOLhyphen"/>tions might ſhew unto all men, that we are under the Government of Jeſus, that we might be manifeſt to God's Witneſs in every man's Boſom:</hi> and in theſe things the Lord Bleſſed us.</p>
+            <p>Again, <hi>How Careful were we, that we might not loſe one tittle of our Teſtimony, by the keeping to the plain Language, that we migkt not lift up the Proud ſpirit in any, by mincing in that particular.</hi>
+            </p>
+            <p>And alſo, <hi>How did our Moderation appear unto all men in our Meats, and Drinks, and Apparel, &amp;c?</hi>
+            </p>
+            <p>And, <hi>How Inwardly Retired did we Walk, fearing to draw out the Minds of any into Unprofitable Diſcourſes; having a prin<g ref="char:EOLhyphen"/>cipal
+<pb n="5" facs="tcp:63239:3"/>regard unto the Inward Exerciſe of our minds, leſt we ſhould loſe our own Conditions; which made us prize Retired Meetings, in which we were ſenſible of the Teachings of the True Prophet from the Falſe, in our ſelves, and others?</hi> Then we were ſenſible of the Living Word to take deep root downward, that from thence we might bring forth Fruit upward, to the Praiſe of God: Deſiring ye may walk in theſe ſteps.</p>
+            <p>Time would fail to tell of the <hi>Poverty of Spirit, Humility of Heart, Lowlineſs of Mind, Brokenneſs of Soul, Contempt of the World, not only of its Glory and Riches, but of all its Wiſdom and Knowledge, counting it Droſs and Dung in compariſon of the Ex<g ref="char:EOLhyphen"/>cellent Knowledge now manifeſted in us through the Revelation of our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>We cannot paſs by that <hi>Godly Fear,</hi> which at that day was in our Hearts, <hi>leſt by Diſcourſing or Reading many Books, we ſhould awaken again the Old Wiſdom and Underſtanding, and again get the Notion of things in the Carnal Comprehen<g ref="char:EOLhyphen"/>ſion, and thereby loſe our Experimental Knowledge of the Inward Work of God in our own particulars:</hi> From which Experience we are careful to ſpeak about the things of God; finding it our Safety and Preſervation, to keep to our own Meaſures; and not to deck our ſelves with the words only, or other mens Gifts, nor yet to pride our ſelves with our former Ex<g ref="char:EOLhyphen"/>periences and Knowledge, though God's Jewels, accor<g ref="char:EOLhyphen"/>ding to the Prophets words.</p>
+            <p>Theſe things being witneſſed in the Beginning, we de<g ref="char:EOLhyphen"/>ſire, exhort and adviſe all, eſpecially thoſe that are Young in the Truth, and newly convinced of the Everlaſting Way, and make profeſſion of the ſame, that they be careful to avoid all thoſe things which the <hi>Godly Fear</hi> caus'd us to a<g ref="char:EOLhyphen"/>void at the Beginning; and ſo much the more, <hi>becauſe our E<g ref="char:EOLhyphen"/>nemies and Oppoſers are waiting for all Occaſions to aſperſe the Holy Truth, and the true Profeſſors of it:</hi> In which practice they
+<pb n="6" facs="tcp:63239:4"/>follow the ſteps of the Enemies of God in former times, who not only watched for Miſchief, to make Offenders for a word, but were ready to fall upon the Hindermoſt and Weakeſt amongſt them, and that when they were but new<g ref="char:EOLhyphen"/>ly Circumcis'd or Convinc'd of the Truth, even while they were yet ſore, or in the deep Exerciſe of their Minds.</p>
+            <p>Then if they could draw them out to diſpute of any thing beyond their own Meaſure, they will Boaſt of that, and charge any Advantage (that they have gotten from the Weak, or Newly Convinced) upon the whole Body; and put us, either to deny the unlearned words that were ſpo<g ref="char:EOLhyphen"/>ken, or them that ſpake them (though their Intention were right) theſe men being willingly ignorant of, as well as envious againſt the Truth, and them that walk therein.</p>
+            <p>Therefore caſt not your Pearls before Swine, leſt they turn again, and rent you: So out of our Love to, and Care for the Truth, we deſire all ſuch Friends, and Convinced Peo<g ref="char:EOLhyphen"/>ple, <hi>To keep to their own Meaſures, truſting more in and unto the Simplicity of Chriſt manifeſt in themſelves, then to any Wiſ<g ref="char:EOLhyphen"/>dom, Parts, or Arguments of their own, in the Earthly or Natural Comprehenſion.</hi>
+            </p>
+            <p>For we have found by many years Experience, That the true Simplicity, and inward Poverty of Spirit, God hath alwayes had regard unto, beyond all flouriſhing Expreſſi<g ref="char:EOLhyphen"/>ons &amp; guilded Speeches, that may charm, and take the out<g ref="char:EOLhyphen"/>ward Ear, but never deliver the Priſoner out of the Pit.</p>
+            <p>Neither hath the Work of God thus far proſper'd by ſuch Weapons of War, or words of Man's Wiſdom; but by a ſecret Vertue, that alwayes attended the truly Poor in Spi<g ref="char:EOLhyphen"/>rit, that did appear what they were only by Grace, and its Edge upon the Conſcience; and to this day do all the true Labourers work with the ſame Tool or Inſtrument.</p>
+            <p>And if you that are Newly Convinced would be kept
+<pb n="7" facs="tcp:63239:4"/>lively in your Conditions to Godward, your growth muſt be only, <hi>in walking in the Light, and keeping in the Grace of God;</hi> and then for words, &amp; knowledg they will come faſt enough upon you, as God hath Service for you: and then, by ſo doing, you will both ſave your ſelves, and them that hear you; and alſo, fruſtrate them that wait for Evil.</p>
+            <p>From which Grace of God theſe things are written, and in the ſame commended to your Conſciences; deſiring heartily, that in your own Meaſures of the ſame you may be preſerved amongſt the Faithful Witneſſes of Jeſus, till your Dayes determined come to be accompliſhed, and you finiſh your Courſe with Joy.</p>
+            <closer>
+               <signed>
+                  <hi>This from us (who Labour and Travel in the Work of the Goſpel, for the Advancing of the Name of the Lord) your Friends in God's Truth,</hi>
+                  <list>
+                     <item>
+                        <hi>John Crooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Green.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>London, <date>
+                     <hi>the</hi> 15th <hi>of the</hi> 11th <hi>Moneth,</hi> 1672.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
